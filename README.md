@@ -20,7 +20,7 @@
 </div>
   
   ##
-- 👨‍💻 I work as a Computer Analyst, but I'm looking for my first job as a developer.
+- 👨‍💻 I work as a Computer Analyst, but I'm looking for an opportunity as a developer.
 
 - 🤓 I’m currently learning: **C#, .NET, ASPN .NET CORE, SQL**
 
