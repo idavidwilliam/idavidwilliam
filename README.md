@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm David William</h1>
 <h3 align="center">Software Developer - Back-end</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idavidwilliam&label=Profile%20views&color=0e75b6&style=flat" alt="idavidwilliam" /> </p>
   
   <div align="center">
-  <a href="https://github.com/idavidwilliam">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=idavidwilliam&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idavidwilliam&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
