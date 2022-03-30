@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm David William</h1>
 <h3 align="center">Software Developer - Back-end</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idavidwilliam&label=Profile%20views&color=0e75b6&style=flat" alt="idavidwilliam" /> </p>
-  
+
   
   <div align="center">
   <a href="https://github.com/idavidwilliam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idavidwilliam&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idavidwilliam&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=idavidwilliam&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idavidwilliam&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
-  
   ##
+  
   **TECNOLOGIAS QUE EU UTILIZO**:
   <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,6 +23,7 @@
 </div>
   
   ##
+  
 - 👨‍💻 I work as a Computer Analyst, but I'm looking for an opportunity as a developer.
 
 - 🤓 I’m currently learning: **C#, .NET, ASPN .NET CORE, SQL**
