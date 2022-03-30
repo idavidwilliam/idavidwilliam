@@ -23,9 +23,11 @@
   
   ##
   
+- 🎓 Studying Information Technology - UFERSA 
+
 - 👨‍💻 I work as a Computer Analyst, but I'm looking for an opportunity as a developer.
 
-- 🤓 I’m currently learning: **C#, .NET, ASPN .NET CORE, SQL**
+- 🤓 I’m currently learning: **C#| .NET | ASPN .NET CORE | SQL |**
 
 - 📫 How to reach me: **davidwill.dev@gmail.com**
 
