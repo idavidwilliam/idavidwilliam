@@ -1,4 +1,6 @@
-## Olá, meu nome é David William |Software Developer - Back-end|
+<h1 align="center">Hi 👋, I'm David William</h1>
+<h3 align="center">Software Developer - Back-end</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idavidwilliam&label=Profile%20views&color=0e75b6&style=flat" alt="idavidwilliam" /> </p>
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=idavidwilliam&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idavidwilliam&layout=compact&langs_count=7&theme=merko"/>
@@ -18,6 +20,15 @@
 </div>
   
   ##
+- 👨‍💻 I work as a Computer Analyst, but I'm looking for my first job as a developer.
+
+- 🤓 I’m currently learning: **C#, .NET, ASPN .NET CORE, SQL**
+
+- 📫 How to reach me: **davidwill.dev@gmail.com**
+
+- 📄 Know about my experiences: [https://www.linkedin.com/in/idavidwilliam/](https://www.linkedin.com/in/idavidwilliam/)
+
+- ⚡ Fun fact: **I like to play CSGO in my spare time**
   
   <div> 
   <a href = "mailto:davidwill.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
