@@ -1,13 +1,11 @@
 ## Olá, meu nome é David William |Software Developer - Back-end|
 <div align="center">
-  
-  <a href="https://github.com/idavidwilliam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idavidwilliam&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idavidwilliam&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
   ##
-  
+  TECNOLOGIAS QUE EU UTILIZO:
   <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="David-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
