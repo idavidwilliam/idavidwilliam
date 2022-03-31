@@ -27,7 +27,7 @@
 
 - 👨‍💻 I work as a Computer Analyst, but I'm looking for an opportunity as a developer.
 
-- 🤓 I’m currently learning: **C#| .NET | ASPN .NET CORE | SQL |**
+- 🤓 I’m currently learning: **C#| .NET | ASPN .NET CORE | SQL | GIT & GitHub|**
 
 - 📫 How to reach me: **davidwill.dev@gmail.com**
 
